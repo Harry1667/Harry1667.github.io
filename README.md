@@ -15,3 +15,23 @@
 | [LifeMentorAI](https://github.com/Harry1667/LifeMentorAI) | AI 人生導師平台 |
 | [Mathbox](https://github.com/Harry1667/Mathbox) | 工程公式計算機 |
 | [ZhiJian](https://github.com/Harry1667/ZhiJian) | AI 駐點顧問品牌 |
+
+---
+
+## English
+
+Personal portfolio site.
+
+### Selected projects
+| Name | Summary |
+|------|---------|
+| [DingDong](https://github.com/Harry1667/DingDong) | iOS hospital queue tracker |
+| [CamMenu](https://github.com/Harry1667/CamMenu) | AI camera menu ordering (iOS) |
+| [JustFeedMe](https://github.com/Harry1667/JustFeedMe) | Flutter random restaurant picker |
+| [Fooda](https://github.com/Harry1667/Fooda) | AI calorie tracker |
+| [ChatCal](https://github.com/Harry1667/ChatCal) | Discord calendar bot |
+| [SkillsHub](https://github.com/Harry1667/SkillsHub) | AI Skills library + MCP |
+| [SurvivalWallet](https://github.com/Harry1667/SurvivalWallet) | Gamified budgeting PWA |
+| [LifeMentorAI](https://github.com/Harry1667/LifeMentorAI) | AI life-mentor platform |
+| [Mathbox](https://github.com/Harry1667/Mathbox) | Engineering formula calculator |
+| [ZhiJian](https://github.com/Harry1667/ZhiJian) | Solo AI consultancy brand site |
